@@ -12,7 +12,8 @@ https://ctflearn.com/challenge/138
 # phone
 https://ctflearn.com/challenge/1008
 
-
+# missile codes 
+https://defendtheweb.net/playground/missile-codes
 
 # glory of the garden
 https://play.picoctf.org/practice/challenge/44
