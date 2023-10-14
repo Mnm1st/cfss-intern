@@ -6,4 +6,4 @@ https://play.picoctf.org/practice/challenge/44
 
 Just download the given image file and simply use this command to get the required flag
 
-| strings garden.jpg
+.....> strings garden.jpg
